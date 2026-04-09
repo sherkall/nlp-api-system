@@ -223,4 +223,4 @@ In Docker, this is set automatically via `docker-compose.yml`.
 
 ## Built By
 
-Sherkall — as part of an NLP Systems Engineering project covering API development, database integration, JWT authentication, ML model deployment, Docker containerisation, and full-stack design.
+Sherwyn Kalmoni — as part of an NLP Systems Engineering project covering API development, database integration, JWT authentication, ML model deployment, Docker containerisation, and full-stack design.
